@@ -9,3 +9,6 @@ function mul(){
 function mod(){
     return 1%2;
 }
+function sayHey(){
+    return 'sayHey';
+}
