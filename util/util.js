@@ -5,3 +5,10 @@ function add (){
 function mul(){
     return 1*2;
 }
+
+function mod(){
+    return 1%2;
+}
+function sayHey(){
+    return 'sayHey';
+}
